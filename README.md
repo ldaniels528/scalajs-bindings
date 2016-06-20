@@ -3,10 +3,9 @@ This project serves as a directory listing of notable Scala.js bindings.
 
 ### Complete Application Solutions
 
-| Library    | Author      | Repository                                               | Description               | Stars  | 
-|------------|-------------|----------------------------------------------------------|---------------------------|--------|
-| Node.js    | ldaniels528 | [scalajs-nodejs](https://github.com/ldaniels528/scalajs-nodejs) | Complete set of Scala.js bindings for Node.js and the MEAN Stack (MongoDB, Express, Angular and Node) | 24 |
-| SRI        | chandu0101  | [sri](https://github.com/chandu0101/sri)                 | Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native | 498 |
+| Library    | Author       | Repository                                              | Description               | Stars  | 
+|------------|--------------|---------------------------------------------------------|---------------------------|--------|
+| Node.js    | ldaniels528  | [scalajs-nodejs](https://github.com/ldaniels528/scalajs-nodejs) | Complete set of Scala.js bindings for Node.js and the MEAN Stack (MongoDB, Express, Angular and Node) | 24 |
 
 ### Front-End Frameworks
 
@@ -20,6 +19,7 @@ This project serves as a directory listing of notable Scala.js bindings.
 | Ractive    | fancellu     | [scalajs-ractive](https://github.com/fancellu/scalajs-ractive) | Scala.js bindings for Ractive.js and an example application | 9 |
 | React      | japgolly     | [scalajs-react](https://github.com/japgolly/scalajs-react) | Facebook's React on Scala.js | 593 |
 | React      | xored        | [scala-js-react](https://github.com/xored/scala-js-react) | ScalaJS interface for Facebook React | 122 |
+| SRI        | chandu0101   | [sri](https://github.com/chandu0101/sri)                 | Build truly native cross platform (web,ios,android) apps using scalajs and react, react-native | 498 |
 | Velocity.js| fancellu     | [scalajs-velocity](https://github.com/fancellu/scalajs-velocity) | Scala.js bindings for Velocity.js and example applications | 7 |
 
 ### Front-End Libraries 
@@ -42,6 +42,7 @@ This project serves as a directory listing of notable Scala.js bindings.
 | CSS        | japgolly     | [scalacss](https://github.com/japgolly/scalacss)        | Super type-safe CSS for Scala and Scala.JS | 161 |
 | HTML       | antonkulaga  | [scala-js-binding](https://github.com/antonkulaga/scala-js-binding) | ScalaJS html binding library | 35 |
 | Joda-Time  | mdedetrich   | [soda-time](https://github.com/mdedetrich/soda-time)    | SodaTime, Port of JodaTime for Scala/Scala.js | 76 |
+| Map-Box    | bbarker      | [scalajs-mapbox](https://github.com/bbarker/scalajs-mapbox) | A Scala.js interface to Mapbox and related APIs, like Leaflet.js. | 8 |
 | Moment.js  | widok        | [scala-js-momentjs](https://github.com/widok/scala-js-momentjs) | Scala.js façade for Moment.js | 27 |
 | Paths.js   | andreaferretti | [paths-scala-js](https://github.com/andreaferretti/paths-scala-js) | Scala.js binding for Paths.js | 19 |
 
