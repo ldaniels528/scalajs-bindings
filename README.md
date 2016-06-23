@@ -5,7 +5,7 @@ This project serves as a directory listing of notable Scala.js bindings.
 
 | Library    | Author       | Repository                                              | Description               | Stars  | 
 |------------|--------------|---------------------------------------------------------|---------------------------|--------|
-| Node.js    | ldaniels528  | [scalajs-nodejs](https://github.com/ldaniels528/scalajs-nodejs) | Complete set of Scala.js bindings for Node.js and the MEAN Stack (MongoDB, Express, Angular and Node) | 24 |
+| Node.js    | ldaniels528  | [scalajs-nodejs](https://github.com/ldaniels528/scalajs-nodejs) | Complete set of Scala.js bindings for Node.js and the MEAN Stack (MongoDB, Express, Angular and Node) | 25 |
 
 ### Front-End Frameworks
 
@@ -13,6 +13,7 @@ This project serves as a directory listing of notable Scala.js bindings.
 |------------|--------------|---------------------------------------------------------|---------------------------|--------|
 | Angular.js | greencatsoft | [scalajs-angular](https://github.com/greencatsoft/scalajs-angular) | AngularJS Binding for Scala.js | 211 |
 | Angular.js | jokade       | [scalajs-angulate](https://github.com/jokade/scalajs-angulate) | ScalaJS binding for AngularJS | 62 |
+| Angular.js | ldaniels528  | [scalajs-nodejs](https://github.com/ldaniels528/scalajs-nodejs) | Complete set of Scala.js bindings for Node.js and the MEAN Stack (MongoDB, Express, Angular and Node) | 25 |
 | Angular 2  | jokade       | [angulate2](https://github.com/jokade/angulate2)         | Scala.js bindings for Angular 2 | 26 |
 | Create.js  | scalawarrior | [scalajs-createjs](https://github.com/scalawarrior/scalajs-createjs) |CreateJS facade types for Scala.js | 6 |
 | jQuery     | scala-js     | [scala-js-jquery](https://github.com/scala-js/scala-js-jquery) | jQuery facade types for Scala.js | 98 |
